@@ -2,7 +2,7 @@
 
 Aplicación móvil desarrollada con **React Native (Expo)** que consume la API pública de SpaceX y muestra información detallada sobre lanzamientos espaciales pasados y futuros.
 
-Incluye navegación entre pantallas, arquitectura modular con adaptadores y repositorios, validación de datos con Zod, estilo con `StyleSheet.create`, y un pipeline de CI/CD con GitHub Actions.
+Incluye navegación entre pantallas, arquitectura modular con adaptadores y repositorios, validación de datos con Zod, estilo con `StyleSheet.create`.
 
 ---
 
