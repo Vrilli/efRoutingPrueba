@@ -48,7 +48,7 @@ git clone https://github.com/Vrilli/efRoutingPrueba.git
 ### 2. Accede al directorio del proyecto
 
 ```bash
-cd efRouting
+cd efRoutingPrueba
 ```
 
 ### 3. Instala las dependencias
