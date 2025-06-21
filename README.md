@@ -14,7 +14,6 @@ Incluye navegación entre pantallas, arquitectura modular con adaptadores y repo
 * **Zod** para validación de datos
 * **Axios** para consumo de API
 * **EAS CLI** para generar builds
-* **GitHub Actions** para CI/CD
 * **react-native-vector-icons** (incluido vía Expo) para íconos en navegación
 
 ---
@@ -33,7 +32,6 @@ El proyecto utiliza `StyleSheet.create` nativo de React Native para definir esti
 * 🔍 Barra de búsqueda y filtros por estado y orden
 * ✅ Validación estricta de datos con Zod
 * 🤖 Pruebas unitarias básicas con Jest y React Native Testing Library
-* 🔄 Build automatizado y artefacto APK con GitHub Actions
 
 ---
 
